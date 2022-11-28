@@ -1,5 +1,5 @@
 <h2>去廣告
-  <a href="https://github.com/sakima55/Adguard-rule/blob/main/CocoAd.txt">CocoAd.txt</a>
+  <a href="https://github.com/sakima55/Adguard/blob/main/Rule/CocoRule.txt">CocoRule.txt</a>
 </h2>
   <p><a href="https://reurl.cc/QjpQ7p">【Chrom】去廣告/封鎖網頁/COCO漫畫廣告</a></p>
   <p>最後更新:20221128</p>
@@ -14,6 +14,6 @@
 <hr>
   <h3>自訂的過濾器</h3>
   <p>過濾器＞自訂的＞新增自訂的過濾器＞　
-  <p>https://raw.githubusercontent.com/sakima55/Adguard-rule/main/CocoAd.txt</p>
+  <p>https://raw.githubusercontent.com/sakima55/Adguard/main/Rule/CocoRule.txt</p>
   <p>＞受信任的＞訂閱</p>
   <h2></h2>  
