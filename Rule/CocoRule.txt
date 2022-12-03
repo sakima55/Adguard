@@ -1,9 +1,10 @@
 ! Title: 【Chrom】去廣告/封鎖網頁/COCO漫畫廣告
-! Description: https://reurl.cc/QjpQ7p
-! Author:https://reurl.cc/QjpQ7p
-! Github:https://github.com/sakima55/Adguard-rule
-! TimeUpdated:2022.12.03
-! ---------------------------------------------
+! Version: 202212031927
+! Last Modified: 2022年12月03日 19:27
+! Description: 【巴哈】https://reurl.cc/QjpQ7p
+! Homepage: 【Github】https://github.com/sakima55/Adguard
+! 如觀看有問題請至巴哈詢問
+!-----------------以下規則開始-----------------!
 ! ★社群網址
 zh-tw.facebook.com###u_0_e_qa
 youtube.com###block
