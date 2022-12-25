@@ -1,31 +1,33 @@
 ! Title: 【Chrom】去廣告/封鎖網頁/COCO漫畫廣告
-! Version: 202212031956
-! Last Modified: 2022年12月03日 19:56
+! Version: 202212252020
+! Last Modified: 2022年12月25日 20:20
 ! Description: COCO問題請點網站，到巴哈留言詢問
 ! Homepage: https://github.com/sakima55/Adguard
+! 更新備註: 20221225網域COCO變COLA
 !-----------------以下規則開始-----------------!
+
 ! ★社群網址
 zh-tw.facebook.com###u_0_e_qa
 youtube.com###block
 youtube.com###companion
 forum.gamer.com.tw###bh-banner
-! ★COCO
-cocomanga.com##.website-pc-read-common
+! ★COLA https://www.acloudmerge.com/
+colamanhua.com##.website-pc-read-common
 ##div.fed-main-info.fed-min-width:nth-child(4) > div.fed-part-case > div:nth-child(7)
 ##div.fed-main-info.fed-min-width:nth-child(4) > div.fed-part-case > div.website-pc-read-common:nth-child(4)
 stocksseminar.com##div:nth-child(6)
 stocksseminar.com##div.nextpage:nth-child(8) > div.container > a > img
 stocksseminar.com##div.container:nth-child(3)
-cocomanga.com##div.website-pc-read-common:nth-child(15) > div:nth-child(2)
-cocomanga.com###mangalist > div.website-pc-read-common:nth-child(37)
-cocomanga.com###mangalist > div.website-pc-read-common:nth-child(10)
-cocomanga.com##div.website-pc-read-common:nth-child(7)
-cocomanga.com###sticky-banner-3945124
-cocomanga.com###sticky-banner-3945126
-cocomanga.com###mangalist > div.website-pc-read-common:nth-child(46) > div:nth-child(2) > div.mg0lodNT:last-child
-cocomanga.com###container-8c0a375d8544f78968ab9f8f99cb9fd76704
-cocomanga.com###container-8c0a375d8544f78968ab9f8f99cb9fd737927
-cocomanga.com###container-8c0a375d8544f78968ab9f8f99cb9fd758855
+colamanhua.com##div.website-pc-read-common:nth-child(15) > div:nth-child(2)
+colamanhua.com###mangalist > div.website-pc-read-common:nth-child(37)
+colamanhua.com###mangalist > div.website-pc-read-common:nth-child(10)
+colamanhua.com##div.website-pc-read-common:nth-child(7)
+colamanhua.com###sticky-banner-3945124
+colamanhua.com###sticky-banner-3945126
+colamanhua.com###mangalist > div.website-pc-read-common:nth-child(46) > div:nth-child(2) > div.mg0lodNT:last-child
+colamanhua.com###container-8c0a375d8544f78968ab9f8f99cb9fd76704
+colamanhua.com###container-8c0a375d8544f78968ab9f8f99cb9fd737927
+colamanhua.com###container-8c0a375d8544f78968ab9f8f99cb9fd758855
 
 ! ★彈跳頁面
 ||nutaku.net^
