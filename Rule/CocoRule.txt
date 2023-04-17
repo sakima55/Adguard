@@ -1,6 +1,6 @@
 ! Title: 【Chrom】去廣告/封鎖網頁/COCO漫畫廣告
-! Version: 202212252020
-! Last Modified: 2022年12月25日 20:20
+! Version: 202304171450
+! Last Modified: 2023年04月17日 14:50
 ! Description: COCO問題請點網站，到巴哈留言詢問
 ! Homepage: https://github.com/sakima55/Adguard
 ! 更新備註: 20221225網域COCO變COLA
