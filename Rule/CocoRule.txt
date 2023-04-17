@@ -90,11 +90,10 @@ werockgaming.com##section:nth-child(4)
 ! ★嗨皮
 ||cloudflareinsights.com^
 ||googlesyndication.com^
+m.happymh.com##ins.adsbygoogle.adsbygoogle-noablate:nth-child(11)
 
-! ★mozimh沫子/歪歪漫画限手機網頁看
-m.mozimh.com###show_img-2377029035902478992-17110
-m.mozimh.com###show_img-2377029035902478992-18334
-m.mozimh.com###\32 377029035902478992-18334 > div:first-child > div
+! ★污污漫畫
+55comic.com##div.under-top-bar:nth-child(3) > div.CarouselView.center > div.wrapper:first-child > div.inner.pin > a > img.bannerImg
 
 ! ★禁漫天堂
 18comic.org###wrapper > div.container:nth-child(19) > div.row:last-child
