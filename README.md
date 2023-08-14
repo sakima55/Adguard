@@ -1,7 +1,7 @@
 <h2>去廣告
   <a href="https://github.com/sakima55/Adguard/blob/main/Rule/CocoRule.txt">CocoRule.txt</a>
 </h2>
-  <p><a href="https://reurl.cc/QjpQ7p">【Chrom】去廣告/封鎖網頁/COCO漫畫廣告</a></p>
+  <p><a href="https://reurl.cc/QjpQ7p">【Chrom】去廣告/封鎖網頁/COla漫畫廣告</a></p>
   <p>最後更新:20221225</p>
   <p>網域更改cocomanga→colamanhua</p>
 <hr>  
