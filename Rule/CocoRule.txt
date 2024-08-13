@@ -1,9 +1,9 @@
 ! Title: 【Chrom】去廣告/封鎖網頁/COCO漫畫廣告
-! Version: 202311130045
-! Last Modified: 2023年11月13日 00:45
+! Version: 202408130938
+! Last Modified: 2024年08月13日 09:38
 ! Description: COCO問題請點網站，到巴哈留言詢問
 ! Homepage: https://github.com/sakima55/Adguard
-! 更新備註: 2023.11.13更改網址為ColaManga
+! 更新備註: 2024.08.13修正Safari瀏覽問題
 !-----------------以下規則開始-----------------!
 
 ! ★社群網址
@@ -27,6 +27,10 @@ colamanga.com###mangalist > div.website-pc-read-common:nth-child(46) > div:nth-c
 colamanga.com###container-8c0a375d8544f78968ab9f8f99cb9fd76704
 colamanga.com###container-8c0a375d8544f78968ab9f8f99cb9fd737927
 colamanga.com###container-8c0a375d8544f78968ab9f8f99cb9fd758855
+!-----------------IOS Safari無法瀏覽問題-----------------!
+colamanga.com###layui-layer-shade1
+
+
 
 ! ★彈跳頁面
 ||nutaku.net^
@@ -83,6 +87,13 @@ colamanga.com###container-8c0a375d8544f78968ab9f8f99cb9fd758855
 ||4qdx69gg2d.com^
 ||ak.roudoduor.com^
 ||escobatutly.website^
+||ty.tyserving.com^
+||rovno.xyz^
+||hh.starchychitted.top^
+||hh.starchychitted.top/cx^
+||perpetualcod.com^
+
+
 
 faptitans.com##.main
 nutaku.net##div.steps-container:nth-child(3)
