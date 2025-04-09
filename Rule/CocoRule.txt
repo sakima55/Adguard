@@ -1,9 +1,9 @@
 ! Title: 【Chrom】去廣告/封鎖網頁/COCO漫畫廣告
-! Version: 202408130938
-! Last Modified: 2024年08月13日 09:38
+! Version: 202504092240
+! Last Modified: 2025年04月09日 22:40
 ! Description: COCO問題請點網站，到巴哈留言詢問
 ! Homepage: https://github.com/sakima55/Adguard
-! 更新備註: 2024.08.13修正Safari瀏覽問題
+! 更新備註: 2025.04.09修正
 !-----------------以下規則開始-----------------!
 
 ! ★社群網址
@@ -29,7 +29,6 @@ colamanga.com###container-8c0a375d8544f78968ab9f8f99cb9fd737927
 colamanga.com###container-8c0a375d8544f78968ab9f8f99cb9fd758855
 !-----------------IOS Safari無法瀏覽問題-----------------!
 colamanga.com###layui-layer-shade1
-
 
 
 ! ★彈跳頁面
@@ -94,7 +93,6 @@ colamanga.com###layui-layer-shade1
 ||perpetualcod.com^
 
 
-
 faptitans.com##.main
 nutaku.net##div.steps-container:nth-child(3)
 werockgaming.com##section:nth-child(4)
@@ -103,9 +101,8 @@ werockgaming.com##section:nth-child(4)
 ||cloudflareinsights.com^
 ||googlesyndication.com^
 m.happymh.com##ins.adsbygoogle.adsbygoogle-noablate:nth-child(11)
-
-! ★污污漫畫
-55comic.com##div.under-top-bar:nth-child(3) > div.CarouselView.center > div.wrapper:first-child > div.inner.pin > a > img.bannerImg
+m.happymh.com###root > div.MuiContainer-root.MuiContainer-maxWidthSm.css-1txvj5l-root:first-child > div.css-1lmjl1x-root:nth-child(11)
+m.happymh.com###root > div.MuiContainer-root.MuiContainer-maxWidthSm.css-1txvj5l-root:first-child > div.css-1lmjl1x-root:nth-child(11)
 
 ! ★禁漫天堂
 18comic.org###wrapper > div.container:nth-child(19) > div.row:last-child
@@ -115,6 +112,24 @@ m.happymh.com##ins.adsbygoogle.adsbygoogle-noablate:nth-child(11)
 18comic.org###wrapper > div.container:nth-child(21) > div.row:nth-child(3) > div > div.panel.panel-default > div.panel-body:last-child > div.row.thumb-overlay-albums > div.a413-60_c1:nth-child(14) > p
 18comic.org###wrapper > div.container:nth-child(21) > div.row:nth-child(3) > div > div.panel.panel-default > div.panel-body:last-child > div.row.thumb-overlay-albums > div.a413-60_c1:nth-child(14)
 18comic.org###wrapper > div.container:nth-child(21) > div.row:nth-child(3) > div > div.panel.panel-default > div.panel-body:last-child > div.row.thumb-overlay-albums > div.col-xs-6:nth-child(35)
+###wrapper > div.container:nth-child(10) > div.row:last-child
+###wrapper > div.container:nth-child(14) > div.row:last-child
+###wrapper > div.container:nth-child(17) > div.row:last-child
+###wrapper > div.container:nth-child(12) > div.row:nth-child(4)
+###wrapper > div.container:nth-child(12) > div.row:last-child
+18comic.vip###wrapper > div.container:nth-child(16) > div.row:nth-child(8) > div.col-lg-3.col-md-3.col-sm-3.col-xs-6:nth-child(2)
+###wrapper > div.container:nth-child(16) > div.row:nth-child(8) > div.col-lg-3.col-md-3.col-sm-3.col-xs-6:nth-child(3)
+###wrapper > div.container:nth-child(16) > div.row:nth-child(8) > div.col-lg-3.col-md-3.col-sm-3.col-xs-6:last-child
+###wrapper > div.container:nth-child(16) > div.row:last-child > div.col-lg-3.col-md-3.col-sm-3.col-xs-6:nth-child(3)
+###wrapper > div.container:nth-child(16) > div.row:last-child > div.col-lg-3.col-md-3.col-sm-3.col-xs-6:last-child
+###wrapper > div.container:nth-child(16) > div.row:last-child > div.col-lg-3.col-md-3.col-sm-3.col-xs-6:first-child
+18comic.vip###wrapper > div.container:nth-child(16) > div.row:last-child
+###wrapper > div.container:nth-child(15) > div.row:nth-child(4) > div.col-lg-3.col-md-3.col-sm-3.col-xs-6.list-col:nth-child(2)
+###wrapper > div.container:nth-child(15) > div.row:nth-child(4) > div.col-lg-3.col-md-3.col-sm-3.col-xs-6.list-col:nth-child(3)
+###wrapper > div.container:nth-child(15) > div.row:nth-child(4) > div.col-lg-3.col-md-3.col-sm-3.col-xs-6.list-col:last-child
+###wrapper > div.container:nth-child(15) > div.row:last-child > div.col-lg-3.col-md-3.col-sm-3.col-xs-6.list-col:nth-child(3)
+18comic.vip###wrapper > div.container:nth-child(15) > div.row:last-child > div.col-lg-3.col-md-3.col-sm-3.col-xs-6.list-col:first-child
+
 
 ! ★漫畫櫃／看漫畫
 ||bmcdn3.com^
