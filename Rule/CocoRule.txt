@@ -1,9 +1,9 @@
 ! Title: 【Chrom】去廣告/封鎖網頁/COCO漫畫廣告
-! Version: 202504092240
+! Version: 202504242015
 ! Last Modified: 2025年04月09日 22:40
 ! Description: COCO問題請點網站，到巴哈留言詢問
 ! Homepage: https://github.com/sakima55/Adguard
-! 更新備註: 2025.04.09修正
+! 更新備註: 2025.04.24修正
 !-----------------以下規則開始-----------------!
 
 ! ★社群網址
@@ -129,7 +129,12 @@ m.happymh.com###root > div.MuiContainer-root.MuiContainer-maxWidthSm.css-1txvj5l
 ###wrapper > div.container:nth-child(15) > div.row:nth-child(4) > div.col-lg-3.col-md-3.col-sm-3.col-xs-6.list-col:last-child
 ###wrapper > div.container:nth-child(15) > div.row:last-child > div.col-lg-3.col-md-3.col-sm-3.col-xs-6.list-col:nth-child(3)
 18comic.vip###wrapper > div.container:nth-child(15) > div.row:last-child > div.col-lg-3.col-md-3.col-sm-3.col-xs-6.list-col:first-child
-
+18comic.vip###wrapper > div.container:nth-child(14) > div.row:nth-child(3)
+###wrapper > div.container:nth-child(14) > div.row:nth-child(3)
+18comic.vip###wrapper > div.container:nth-child(17) > div.row:nth-child(8) > div.col-lg-3.col-md-3.col-sm-3.col-xs-6:first-child
+18comic.vip###wrapper > div.container:nth-child(17) > div.row:nth-child(8) > div.col-lg-3.col-md-3.col-sm-3.col-xs-6:nth-child(2)
+18comic.vip###wrapper > div.container:nth-child(17) > div.row:nth-child(8) > div.col-lg-3.col-md-3.col-sm-3.col-xs-6:nth-child(3)
+##.col-lg-3, .col-md-3, .col-sm-3, .col-xs-6
 
 ! ★漫畫櫃／看漫畫
 ||bmcdn3.com^
