@@ -1,9 +1,9 @@
 <h2>去廣告
   <a href="https://github.com/sakima55/Adguard/blob/main/Rule/CocoRule.txt">CocoRule.txt</a>
 </h2>
-  <p><a href="https://reurl.cc/QjpQ7p">【Chrom】去廣告/封鎖網頁/COla漫畫廣告</a></p>
-  <p>最後更新:20250424</p>
-  <p>網域更改cocomanga→colamanhua</p>
+  <p><a href="https://reurl.cc/QjpQ7p">【Chrom】去廣告/封鎖網頁/漫畫廣告</a></p>
+  <p>最後更新:20251110</p>
+  <p>Chrome不支援，但其他瀏覽器或手機APP支援自訂規則</p>
 <hr>  
   <h3>Adguard操作(PC、IOS、Android)</h3>
   <p>一、如果被偵測「请用正常浏览器观看，如果觉得是个意外，请反馈...」"</p>
