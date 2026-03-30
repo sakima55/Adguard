@@ -1,9 +1,9 @@
 ! Title: 【Chrom】去廣告/封鎖網頁/COCO漫畫廣告
-! Version: 202601281930
-! Last Modified: 2026年01月28日 19:30
+! Version: 202603301620
+! Last Modified: 2026年03月30日 16:20
 ! Description: AD問題請點網站，到巴哈留言詢問
 ! Homepage: https://github.com/sakima55/Adguard
-! 更新備註: 2025.11.01修正
+! 更新備註: 2026.03.30修正
 !-----------------以下規則開始-----------------!
 
 ! ★社群網址
@@ -79,6 +79,10 @@ werockgaming.com##section:nth-child(4)
 ! ★嗨皮
 ||cloudflareinsights.com^
 ||googlesyndication.com^
+||b7510.com^
+||shopee.tw/shuuemura.tw/^
+||tw.trip.com^
+
 m.happymh.com##ins.adsbygoogle.adsbygoogle-noablate:nth-child(11)
 m.happymh.com###root > div.MuiContainer-root.MuiContainer-maxWidthSm.css-1txvj5l-root:first-child > div.css-1lmjl1x-root:nth-child(11)
 m.happymh.com###root > div.MuiContainer-root.MuiContainer-maxWidthSm.css-1txvj5l-root:first-child > div.css-1lmjl1x-root:nth-child(11)
