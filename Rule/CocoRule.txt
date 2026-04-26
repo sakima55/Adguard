@@ -88,6 +88,10 @@ werockgaming.com##section:nth-child(4)
 ||wow-wow.pro/^
 ||travellermania.com/^
 ||invol.co/^
+||wow-wow.pro/^
+||s.shopee.tw/^
+
+
 
 m.happymh.com##ins.adsbygoogle.adsbygoogle-noablate:nth-child(11)
 m.happymh.com###root > div.MuiContainer-root.MuiContainer-maxWidthSm.css-1txvj5l-root:first-child > div.css-1lmjl1x-root:nth-child(11)
