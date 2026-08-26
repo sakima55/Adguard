@@ -1,7 +1,7 @@
 <h2>去廣告
   <a href="https://github.com/sakima55/Adguard/blob/main/Rule/CocoRule.txt">CocoRule.txt</a>
 </h2>
-  <p><a href="https://reurl.cc/QjpQ7p">【Chrom】去廣告/封鎖網頁</a></p>
+  <p><a href="[https://reurl.cc/QjpQ7p](https://home.gamer.com.tw/artwork.php?sn=4751144)">【Chrom】去廣告/封鎖網頁</a></p>
   <p>最後更新:20260827</p>
   <p>Chrome不支援，但其他瀏覽器或手機APP支援自訂規則</p>
 <hr>  
