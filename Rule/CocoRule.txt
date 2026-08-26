@@ -1,9 +1,9 @@
-! Title: 【Chrom】去廣告/封鎖網頁/COCO漫畫廣告
-! Version: 202604090359
-! Last Modified: 2026年04月09日 03:59
+! Title: 【Chrom】去廣告/封鎖網頁
+! Version: 202608261645
+! Last Modified: 2026年08月26日 16:45
 ! Description: AD問題請點網站，到巴哈留言詢問
 ! Homepage: https://github.com/sakima55/Adguard
-! 更新備註: 2026.04.09修正
+! 更新備註: 2026.08.26修正
 !-----------------以下規則開始-----------------!
 
 ! ★社群網址
@@ -71,12 +71,6 @@ forum.gamer.com.tw###bh-banner
 ||hh.starchychitted.top^
 ||hh.starchychitted.top/cx^
 ||perpetualcod.com^
-
-faptitans.com##.main
-nutaku.net##div.steps-container:nth-child(3)
-werockgaming.com##section:nth-child(4)
-
-! ★嗨皮
 ||cloudflareinsights.com^
 ||googlesyndication.com^
 ||b7510.com/^
@@ -90,13 +84,14 @@ werockgaming.com##section:nth-child(4)
 ||invol.co/^
 ||wow-wow.pro/^
 ||s.shopee.tw/^
+||awbfodg.com^
+||82765ehn.xseab312.vip^
+||750jxpvs.com^
+||ckcisa750.vip^
 
-
-
-m.happymh.com##ins.adsbygoogle.adsbygoogle-noablate:nth-child(11)
-m.happymh.com###root > div.MuiContainer-root.MuiContainer-maxWidthSm.css-1txvj5l-root:first-child > div.css-1lmjl1x-root:nth-child(11)
-m.happymh.com###root > div.MuiContainer-root.MuiContainer-maxWidthSm.css-1txvj5l-root:first-child > div.css-1lmjl1x-root:nth-child(11)
-m.happymh.com###root > div.MuiContainer-root.MuiContainer-maxWidthSm.css-1txvj5l-root:first-child > div.css-1egcsz-root:nth-child(11)
+m.mh160mh.com###ImgZoomInBG
+twmanga.com###wfa-sticky-footer
+guazimanhua.com##div.page:first-child > main.main:nth-child(4) > section.mobile-comic-detail-page:first-child > div.mobile-comic-top-ad:first-child > a > img
 
 ! ★禁漫
 18comic.org###wrapper > div.container:nth-child(19) > div.row:last-child
