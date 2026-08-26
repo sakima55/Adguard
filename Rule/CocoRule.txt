@@ -1,6 +1,6 @@
 ! Title: 【Chrom】去廣告/封鎖網頁
-! Version: 202608261645
-! Last Modified: 2026年08月26日 16:45
+! Version: 202608262100
+! Last Modified: 2026年08月26日 21:00
 ! Description: AD問題請點網站，到巴哈留言詢問
 ! Homepage: https://github.com/sakima55/Adguard
 ! 更新備註: 2026.08.26修正
@@ -8,88 +8,135 @@
 
 ! ★社群網址
 zh-tw.facebook.com###u_0_e_qa
-
 forum.gamer.com.tw###bh-banner
 
 ! ★彈跳頁面
-||nutaku.net^
-||syndication.exdysnrv.com^
-||geminijsq.com^
-||creative.xxxjmp.com^
-||teck4all.com^
-||javhd.com^
-||bestanimegame.com^
-||theonlygames.com^
-||mc.yandex.ru^
-||gamesrevenue.com^
-||bestanimegame.com^
-||cuntempire.com^
-||zh.stripchat.com^
-||popIn.cc^
-||eiimnmioipafcokbfikbljfdeojpcgbh^
-||cuntempire.com^
-||cdn.itskiddoan.club^
-||faptitans.com^
-||adxstorm.com^
-||delayeddisembroildisembroil.com^
-||rjp123.com^
-||mingshishouke.com^
-||inoradde.com^
-||findallmoneysurvey.top^
-||data.text^
-||cuntwars.com^
-||ak.hetartwg.com^
-||ak.hetartwg.com/^
-||hetartwg.com^
-||statsprotecthere.com^
-||misbornsubitem.space^
-||ak.roudoduor.com^
-||oxbnr.prodlgiousdates.com^
-||2vid.top^
-||tnflix.top^
-||eu.sexy24.net^
-||xu2.com^
-||soupyhospital.com^
-||laggerozonid.website^
-||relativelyweptcurls.com^
-||macroschauth.com^
-||cdn.creative-bars1.com^
-||unseenreport.com^
-||google-analytics.com^
-||couplestupidity.com^
-||si.vouninked.com^
-||friendshipmale.com^
-||syenitetatler.tech^
-||ingraveminever.com^
-||ytu567.monster^
-||letitnews.com^
-||4qdx69gg2d.com^
-||ak.roudoduor.com^
-||escobatutly.website^
-||ty.tyserving.com^
-||rovno.xyz^
-||hh.starchychitted.top^
-||hh.starchychitted.top/cx^
-||perpetualcod.com^
-||cloudflareinsights.com^
-||googlesyndication.com^
-||b7510.com/^
-||kykay.com/^
-||shopee.tw/shuuemura.tw/^
-||tw.trip.com/^
-||1xlite-23120.bar/^
-||klik.blog/^
-||wow-wow.pro/^
-||travellermania.com/^
-||invol.co/^
-||wow-wow.pro/^
-||s.shopee.tw/^
-||awbfodg.com^
-||82765ehn.xseab312.vip^
-||750jxpvs.com^
-||ckcisa750.vip^
 ||1217.yishunft.com^
+||1xlite-23120.bar^
+||2.93550cao.cc^
+||2vid.top^
+||3.jx9150x.cc^
+||4qdx69gg2d.com^
+||750jxpvs.com^
+||82765ehn.xseab312.vip^
+||adxstorm.com^
+||awbfodg.com^
+||b7510.com^
+||bestanimegame.com^
+||cdn.creative-bars1.com^
+||cdn.itskiddoan.club^
+||ckcisa750.vip^
+||cloudflareinsights.com^
+||couplestupidity.com^
+||creative.xxxjmp.com^
+||cuntempire.com^
+||cuntwars.com^
+||delayeddisembroildisembroil.com^
+||escobatutly.website^
+||eu.sexy24.net^
+||faptitans.com^
+||findallmoneysurvey.top^
+||friendshipmale.com^
+||gamesrevenue.com^
+||geminijsq.com^
+||gg51.com^
+||google-analytics.com^
+||googlesyndication.com^
+||gzbk.didi51-tfrb1025.cc^
+||hetartwg.com^
+||hh.starchychitted.top^
+||ingraveminever.com^
+||inoradde.com^
+||invol.co^
+||javhd.com^
+||klik.blog^
+||kykay.com^
+||laggerozonid.website^
+||letitnews.com^
+||macroschauth.com^
+||mc.yandex.ru^
+||mdtj2ui.com^
+||misbornsubitem.space^
+||mingshishouke.com^
+||nutaku.net^
+||oxbnr.prodlgiousdates.com^
+||perpetualcod.com^
+||popIn.cc^
+||relativelyweptcurls.com^
+||rjp123.com^
+||rk7p.avdog-t0185.vip^
+||rovno.xyz^
+||roudoduor.com^
+||s.shopee.tw^
+||si.vouninked.com^
+||soupyhospital.com^
+||sshv.452rl3v.cc^
+||statsprotecthere.com^
+||syenitetatler.tech^
+||syndication.exdysnrv.com^
+||teck4all.com^
+||theonlygames.com^
+||tnflix.top^
+||travellermania.com^
+||tw.trip.com^
+||ty.tyserving.com^
+||unseenreport.com^
+||wow-wow.pro^
+||xu2.com^
+||ytu567.monster^
 ||zgpgxsocqe1.com^
+||zh.stripchat.com^
+||spa292des.vip^
+
+! ★常見自動跳轉 - 廣告聯播網
+||adsterra.com^$third-party
+||clickadu.com^$third-party
+||exdynsrv.com^$third-party
+||exoclick.com^$third-party
+||hilltopads.com^$third-party
+||juicyads.com^$third-party
+||monetag.com^$third-party
+||popads.net^$third-party
+||popcash.net^$third-party
+||propellerads.com^$third-party
+||syndication.exdynsrv.com^$third-party
+||trafficjunky.net^$third-party
+||xxxjmp.com^$third-party
+
+! ★常見自動跳轉 - 高風險頂級網域 (第三方)
+||cc^$third-party
+||click^$third-party
+||link^$third-party
+||monster^$third-party
+||site^$third-party
+||space^$third-party
+||top^$third-party
+||vip^$third-party
+||website^$third-party
+||work^$third-party
+||xyz^$third-party
+
+! ★攔截常見的彈窗與跳轉腳本名稱
+/popunder.js
+/popup.js
+/redirect.js
+/pop.js
+/adp/pop
+/ads/pop
+
+! ★攔截含有跳轉/追蹤參數的網址
+?popunder=
+?pop_under=
+&redirect_url=
+&target_url=
+
+! ★阻擋所有第三方網頁嘗試開啟 Pop-up / Pop-under
+||*$popup,third-party
+
+! ★封鎖常見惡意跳轉腳本並改注入空腳本 (noop.js)
+||*/popunder.js$script,redirect=noopjs
+||*/popup.js$script,redirect=noopjs
+
 
 m.mh160mh.com###ImgZoomInBG
 twmanga.com###wfa-sticky-footer
@@ -128,26 +175,25 @@ guazimanhua.com##div.page:first-child > main.main:nth-child(4) > section.mobile-
 ##.col-lg-3, .col-md-3, .col-sm-3, .col-xs-6
 
 ! ★漫畫櫃
-||bmcdn3.com^
-||sitemaji.com^$third-party
-||googletagmanager.com^
-||googletagmanager.com/gtag/$third-party
-||ad.holmesmind.com^
-||aralego.com^$third-party
 ||appier.net^$third-party
 ||aralego.com^$third-party
+||ad.holmesmind.com^
+||bmcdn3.com^
 ||c.holmesmind.com^
-||criteo.net^$third-party
-||criteo.com^
 ||creativecdn.com^$third-party
+||criteo.com^
+||criteo.net^$third-party
 ||doubleclick.net^$third-party
-||doubleclick.net^$image,third-party
 ||exdynsrv.com^
+||googletagmanager.com^
+||sitemaji.com^$third-party
 ||ssp.hinet.net^
-$cookie=/.+/;maxAge=172800,third-party
+
 ##.clickforceads
 ##div[class^="native-ad-"]
+
 ?adspot_
 /ads/native.
 /curveball/ads/*
+
 ://ads.$domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.bestprints.biz|~ads.bigbom.com|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.colombiaonline.com|~ads.comeon.com|~ads.cs.washington.edu|~ads.cvut.cz|~ads.dollartree.com|~ads.doordash.com|~ads.elcarado.com|~ads.elevateplatform.co.uk|~ads.finance|~ads.gambinoslot.com|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kazakh-zerno.net|~ads.kifli.hu|~ads.knuspr.de|~ads.lapalingo.com|~ads.listonic.com|~ads.lollipod.de|~ads.lordlucky.com|~ads.magalu.com|~ads.mba|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.mst.dk|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.rohlik.cz|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
