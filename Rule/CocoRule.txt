@@ -55,7 +55,9 @@
 ##div[class^="native-ad-"]
 
 ! ★阻擋所有第三方網頁嘗試開啟 Pop-up / Pop-under
-||*$popup,third-party
+! ★強力功能，但會導致遊戲官方網站無法跳出 Google、Facebook、Steam 等第三方帳號登入畫面
+!||*$popup,third-party
+
 
 ! ★封鎖常見惡意跳轉腳本並改注入空腳本 (noop.js)
 ||*/popunder.js$script,redirect=noopjs
