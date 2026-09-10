@@ -1,9 +1,9 @@
 ! Title: 【Chrom】去廣告/封鎖網頁
 ! Version: 202608270407
-! Last Modified: 2026年08月27日 04:07
+! Last Modified: 2026年09月10日 09:26
 ! Description: AD問題請點網站，到巴哈留言詢問
 ! Homepage: https://github.com/sakima55/Adguard
-! 更新備註: 2026.08.27 網頁異常請反饋
+! 更新備註: 2026.09.26 網頁異常請反饋
 !-----------------以下規則開始-----------------!
 ! ★常見自動跳轉 - 廣告聯播網
 ||adsterra.com^$third-party
@@ -123,6 +123,7 @@ twmanga.com###wfa-sticky-footer
 ! ★瓜子
 guazimanhua.com##div.page:first-child > div.desktop-comic-top-ad:nth-child(3) > a > img
 guazimanhua.com##main.reader-shell:nth-child(3) > div.desktop-reader-top-ad:first-child > a > img
+guazimanhua.com##div.page:first-child > main.main:nth-child(3) > section.mobile-comic-detail-page:first-child > div.mobile-comic-top-ad:first-child
 
 ! ★彈跳頁面
 ||1217.yishunft.com^
