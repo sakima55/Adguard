@@ -126,7 +126,7 @@ guazimanhua.com##main.reader-shell:nth-child(3) > div.desktop-reader-top-ad:firs
 guazimanhua.com##div.page:first-child > main.main:nth-child(3) > section.mobile-comic-detail-page:first-child > div.mobile-comic-top-ad:first-child
 
 ! ★8movie
-onsen.xuitebackup.net###nextpage-mask-overlay
+onsen.xuitebackup.net^$third-party
 8movie.com^$third-party
 
 ! ★彈跳頁面
